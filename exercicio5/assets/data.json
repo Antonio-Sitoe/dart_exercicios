@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Branca"
+  },
+  {
+    "id": 2,
+    "name": "Calça Jeans"
+  },
+  {
+    "id": 3,
+    "name": "Tênis Esportivo"
+  },
+  {
+    "id": 4,
+    "name": "Jaqueta de Couro"
+  },
+  {
+    "id": 5,
+    "name": "Relógio Digital"
+  },
+  {
+    "id": 6,
+    "name": "Boné Azul"
+  },
+  {
+    "id": 7,
+    "name": "Óculos de Sol"
+  },
+  {
+    "id": 8,
+    "name": "Mochila Escolar"
+  },
+  {
+    "id": 9,
+    "name": "Fone de Ouvido"
+  },
+  {
+    "id": 10,
+    "name": "Carteira Masculina"
+  }
+]
